@@ -4,12 +4,14 @@ Needs ChestX-ray8 Data for processing: https://nihcc.app.box.com/v/ChestXray-NIH
 here some results after ~400 Epochs:
 
 Auroc: 
+
 ![Auroc](https://github.com/GastonLagaffe2013/CRX8-lung-desease-classification/blob/main/auroc27042020-195800c.png)
 
 
 Findings:
+
 ![findings](https://github.com/GastonLagaffe2013/CRX8-lung-desease-classification/blob/main/heatmap27042020-195852c.png)
 
 
-No Finding (Treu Negative)
+No Finding (True Negative)
 ![no findings](https://github.com/GastonLagaffe2013/CRX8-lung-desease-classification/blob/main/heatmap23042020-092514c.png)
